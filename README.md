@@ -20,6 +20,6 @@ New content
 {% hint style="info" %}
 Hint
 
-Some hint stuff
+Some hint stuff adding text
 {% endhint %}
 
