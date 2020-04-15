@@ -1,5 +1,3 @@
-# Pasted Wiki raw content
-
 ### Welcome to the MutualAidWorld Developers wiki!
 
 MutualAid.World is a project to help local organizers serve their communities by providing ready made, constantly evolving software that meet the needs of local mutual aid projects.
