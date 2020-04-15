@@ -23,3 +23,7 @@ Hint
 Some hint stuff adding text
 {% endhint %}
 
+[https://github.com/jwu910/resilience-docs/commit/c49a0f3494ba0963e1a55e44a8717eeb95560643](https://github.com/jwu910/resilience-docs/commit/c49a0f3494ba0963e1a55e44a8717eeb95560643)  
+  
+The hint above was edited on github
+
