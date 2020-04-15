@@ -20,3 +20,7 @@
 * [Page with Tabs example](second-group-of-pages/page-with-tabs-example.md)
 * [Mutual Aid Site external Link](https://mutualaid.world)
 
+## Import attempt from wiki
+
+* [Pasted Wiki raw content](import-attempt-from-wiki/pasted-wiki-raw-content.md)
+
